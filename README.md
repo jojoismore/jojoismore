@@ -1,5 +1,7 @@
-<div align="center">
+<div align="right">
   <img width="200" src="https://github.com/jojoismore/jojoismore/blob/master/images/17457835_1445929542130512_5989253665817589175_n.jpg?raw=true"/>
+</div>
+<div align="left">
   <h2>Hi, this is Jojo, a YouTuber.</h2>
 </div>
 
