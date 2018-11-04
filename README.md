@@ -1,6 +1,6 @@
 ## Hi, this is Jojo, a YouTuber.
 
-## [JoJo Cosmetics/vlog] (https://www.youtube.com/channel/UCUo1bQy6pQo-QoH_SlEAC3A?view_as=subscriber)
+## [JoJo Cosmetics/vlog](https://www.youtube.com/channel/UCUo1bQy6pQo-QoH_SlEAC3A?view_as=subscriber)
 
 ---
 
