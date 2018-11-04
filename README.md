@@ -1,4 +1,4 @@
-<h1>Hi, this is Jojo, a YouTuber. </h1><img width="50" src="https://github.com/jojoismore/jojoismore/blob/master/images/17457835_1445929542130512_5989253665817589175_n.jpg?raw=true"  />
+<h1>Hi, this is Jojo, a YouTuber.</h1><img styles="display: inline-block" width="50" src="https://github.com/jojoismore/jojoismore/blob/master/images/17457835_1445929542130512_5989253665817589175_n.jpg?raw=true"  />
 
 ## [JoJo Cosmetics/vlog](https://www.youtube.com/channel/UCUo1bQy6pQo-QoH_SlEAC3A?view_as=subscriber)
 
