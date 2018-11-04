@@ -1,4 +1,4 @@
-# Hi, this is Jojo, a YouTuber.
+## Hi, this is Jojo, a YouTuber.
 
 ## JoJo Cosmetics/vlog
 
